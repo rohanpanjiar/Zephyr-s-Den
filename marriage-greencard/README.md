@@ -32,18 +32,20 @@ immediately**, and **file a flawless package the moment you're eligible.**
 
 ---
 
-## ⚠️ Two things that could derail everything — read before you book any travel
+## ✅ Two critical facts — confirmed in your favor
 
-- **Do NOT travel internationally again after filing the I-485 until you have Advance
-  Parole or the green card** — leaving the U.S. with a pending adjustment is treated as
-  *abandoning* the application. (Narrow exception: if Rohan holds **H-1B or L-1** status,
-  those allow travel on the visa itself even with a pending I-485. We need to confirm his
-  status — see Open Questions.) This is why the plan is: finish Europe → land July 14 →
-  *then* marry and file → stay put until the EAD/Advance Parole combo card arrives.
-- **This whole "concurrent filing" path assumes Rohan is currently in the U.S. in valid
-  status and last entered legally (with inspection).** If so, he can "adjust status"
-  without leaving. If not, it becomes consular processing (a different, slower path). See
-  Open Questions — this is the single most important fact I need from you.
+- **Rohan is on H-1B with an approved I-140.** H-1B is a "dual intent" visa, which means
+  he **can continue traveling internationally even after filing the I-485**, as long as his
+  H-1B status remains valid and he has a valid visa stamp or gets a new one. No need to
+  wait for Advance Parole before traveling — but file I-131 anyway as a backup, and keep
+  the I-140 active (see `03-greencard-path.md` for details on the I-140).
+- **Meg is a U.S. citizen.** This makes Rohan an **immediate relative** — the fastest
+  possible green card category with no visa-number wait and full eligibility for concurrent
+  concurrent I-130 + I-485 filing. You're in the fast lane.
+
+**The plan:** finish Europe → land July 14 → marry July 15/16 → file the concurrent
+package immediately → Rohan can continue working on H-1B and traveling on H-1B while the
+case processes.
 
 ---
 

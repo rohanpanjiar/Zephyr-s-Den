@@ -59,10 +59,31 @@ If you've been married **less than 2 years** when the green card is approved, th
 card is **conditional** (valid 2 years). You jointly file **Form I-751** to remove
 conditions in the 90 days before it expires.
 
-## Critical travel rule
+## Travel rules — your specific situation (H-1B + approved I-140)
 
-Once the I-485 is filed, **do not leave the U.S. without Advance Parole or the green
-card** — doing so abandons the application. Exception: if Rohan holds **H-1B or L-1**
-status, those "dual intent" visas let him travel on the visa itself even with a pending
-I-485. We need his current status confirmed (see Open Questions) before he books any
-travel after July 14.
+Because Rohan is on **H-1B** (a dual-intent visa), he **can continue to travel
+internationally even with a pending I-485**. He re-enters on his H-1B visa stamp and
+valid I-797 approval notice — not on Advance Parole. This is a major advantage over
+most other visa categories.
+
+**What to keep in mind:**
+- Ensure the H-1B I-797 approval covers the period you'll be traveling. If it expires,
+  the employer needs to file an extension or you need a valid H-1B visa stamp.
+- Don't let the H-1B *status* expire while the I-485 is pending. If employment ends,
+  talk to the attorney immediately — you have a 60-day grace period.
+- File **Form I-131** (Advance Parole) in the package anyway as a backup — if anything
+  changes with H-1B status mid-process, you'll want the AP card as an alternative.
+
+## The approved I-140 — a hidden asset
+
+Rohan's **approved I-140** (employment-based petition) is worth keeping alive even after
+the marriage green card is in process. Two reasons:
+
+1. **Priority date protection.** If something ever delays the marriage-based case and you
+   needed to fall back on the EB path, the I-140 priority date is preserved.
+2. **H-1B extensions beyond 6 years.** An approved I-140 (and a priority date beyond a
+   year) lets Rohan extend H-1B in 3-year increments while AOS is pending. This is
+   usually automatic with the employer's attorney — just flag it to them.
+
+Tell the immigration attorney about the I-140 at the first meeting so they can advise on
+whether/how to keep it active alongside the marriage case.

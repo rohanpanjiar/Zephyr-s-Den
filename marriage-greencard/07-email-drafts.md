@@ -12,8 +12,10 @@ Hi [Firm/Attorney name],
 
 My fiancée and I are getting married in Los Angeles the week of July 14, 2026 and want to
 file a marriage-based green card right away. She is a U.S. citizen; I am currently in the
-U.S. on [status, e.g., H-1B]. We're looking for full-service help with the concurrent
-I-130 + I-485 package (including I-765 and I-131), and we're ready to move quickly.
+U.S. on H-1B with an approved I-140 from a prior employer. We're looking for full-service
+help with the concurrent I-130 + I-485 package (including I-765 and I-131), and we'd also
+like advice on preserving the I-140 / priority date alongside the marriage case. Ready to
+move quickly.
 
 Could we book a consultation the week of July 14? Please send your flat-fee quote and the
 document list you'll need. Thanks!

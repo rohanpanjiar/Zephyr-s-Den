@@ -17,7 +17,7 @@ shared — keep those in a private note and tell the attorney directly.
 | Other names used (maiden, aliases) | 🔲 | 🔲 |
 | Date of birth | 🔲 | 🔲 |
 | City & country of birth | 🔲 | 🔲 |
-| Country of citizenship | ✅ United States *(confirm)* | 🔲 |
+| Country of citizenship | ✅ United States | 🔲 (India? confirm) |
 | Sex | 🔲 | 🔲 |
 | SSN (keep private) | 🔲 | 🔲 (or "none") |
 | A-Number (if any) | usually none | 🔲 (or "none") |
@@ -46,7 +46,7 @@ shared — keep those in a private note and tell the attorney directly.
 
 | Field | Value |
 |---|---|
-| Current immigration status | 🔲 **(e.g., H-1B / L-1 / F-1 OPT / O-1 / other)** — *most important answer* |
+| Current immigration status | ✅ **H-1B (with approved I-140)** — confirm current H-1B I-797 expiry and employer 🔲 |
 | Date of last entry into the U.S. | 🔲 |
 | Place of last entry (city/port) | 🔲 |
 | Inspected & admitted/paroled at entry? | 🔲 (Yes if you entered with a visa) |
