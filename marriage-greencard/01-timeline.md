@@ -1,50 +1,44 @@
-# Day-by-Day Timeline (anchored to July 14, 2026 return)
+# Day-by-Day Timeline (anchored to today: July 23, 2026)
 
-Today is **Sunday, June 14, 2026**. You return **Tuesday, July 14, 2026**.
+Today is **Thursday, July 23, 2026**. You're **back in LA**. Goal: marry ASAP this week.
 
-## Phase 0 — Now through departure / while in Europe (do online)
+## Phase 0 — Today (Thu July 23): kick everything off
 
-These can all be done remotely before you land:
+- [ ] **Complete the online marriage license application** at **marriage.lavote.net**
+      (save the confirmation number). See `00-BOOK-NOW.md`.
+- [ ] **Book the earliest express-ceremony slot** — call **800-201-8999** now (open till
+      4:30) or book online. Target **today, Fri July 24, or Mon July 27** at the **LAX
+      Courthouse** branch (Beverly Hills / Van Nuys backup).
+- [ ] **Decide license type:** confidential (no witness needed, you live together — you do)
+      vs. public (needs 1 witness; office can supply one for $20).
+- [ ] **Email 2–3 immigration attorneys** for the earliest consult (draft in
+      `07-email-drafts.md`) — you chose the attorney path.
+- [ ] **Order passport-style photos** for both (2 each) — any CVS/Walgreens. Needed for
+      I-485/EAD.
+- [ ] **Meg:** gather proof of U.S. citizenship + last 3 years of federal tax returns/W-2s.
+- [ ] **Rohan:** gather passport, most recent I-94 (cbp.gov), H-1B I-797 + I-140 approval.
+- [ ] **Fill the worksheet** (`06-form-data-worksheet.md`).
 
-- [ ] **Answer the 6 questions** in `08-open-questions.md`.
-- [ ] **Choose green-card path** (attorney / service / DIY) and, if attorney, send the
-      outreach email in `07-email-drafts.md` and book a consult for the week of July 14.
-- [ ] **Now:** complete the online marriage license application at **marriage.lavote.net**
-      (save the confirmation number).
-- [ ] **~June 24 (booking window opens 3 wks before July 15):** reserve the **Marriage
-      License + Express Ceremony** at the **LAX Courthouse** branch for **Wed July 15**
-      (Beverly Hills backup). See `00-BOOK-NOW.md`. Slots fill fast — book at 8 AM.
-- [ ] **Decide license type:** confidential (no witness needed, you must live together —
-      you do) vs. public (needs 1 witness; office can supply one for $20).
-- [ ] **Order passport-style photos** for both of you (2 each) — any CVS/Walgreens, or
-      bring on return. Needed for I-485/EAD.
-- [ ] **Meg:** locate proof of U.S. citizenship (passport or birth certificate or
-      naturalization certificate) and last 3 years of federal tax returns / W-2s.
-- [ ] **Rohan:** gather passport, visa, most recent I-94 (download from CBP), current
-      status documents (e.g., H-1B approval notice I-797, EAD, I-20, etc.).
-- [ ] **Fill the worksheet** (`06-form-data-worksheet.md`) on the plane.
+## Phase 1 — Get married (this week: Thu 7/23 – Mon 7/27)
 
-## Phase 1 — Get married (Week of July 14)
-
-- **Tue Jul 14** — Land. Rest.
-- **Wed Jul 15 (or Thu Jul 16)** — Beverly Hills RR/CC branch, 9355 Burton Way:
-  1. Marriage license appointment (~30 min). Bring valid photo ID for both. Fee $91.
-  2. Express civil ceremony appointment (45 min). Fee $25 (+$20 if you need their
-     witness on a public license). **You are now legally married.** 🎉
+- **Ceremony day** — LAX Courthouse RR/CC branch (or wherever you booked):
+  1. Marriage license (~30 min). Bring valid photo ID for both. Fee $91.
+  2. Express civil ceremony (45 min). Fee $25 (+$20 if you need their witness on a public
+     license). **You are now legally married.** 🎉
   3. Order **certified copies** of the marriage certificate (you'll need at least 1–2 for
      USCIS). Note: the certificate is registered after the officiant returns the license;
      certified copies typically take a couple of weeks unless same-day service is offered.
 
-## Phase 2 — Assemble & file the green card (mid–late July)
+## Phase 2 — Assemble & file the green card (late July / early Aug)
 
-- **Jul 16–18** — Schedule Rohan's **I-693 medical exam** with a USCIS-designated civil
+- **This week** — Schedule Rohan's **I-693 medical exam** with a USCIS-designated civil
   surgeon near Marina del Rey (draft in `07-email-drafts.md`). Don't open the sealed
   envelope they give you.
-- **Jul 16–25** — Assemble the concurrent package: I-130, I-130A, I-485, I-765, I-131,
-  I-864 + all supporting documents (`05-document-checklist.md`). If using an attorney,
-  hand them the completed worksheet + documents; they file.
-- **Late Jul** — **File** the package by mail to the USCIS lockbox (separate check/money
-  order per form — see `04-forms-and-fees.md`). Keep copies of everything.
+- **Late Jul – early Aug** — Assemble the concurrent package: I-130, I-130A, I-485, I-765,
+  I-131, I-864 + all supporting documents (`05-document-checklist.md`). Hand your attorney
+  the completed worksheet + documents; they file.
+- **Early Aug** — **File** the package to the USCIS lockbox (separate check/money order per
+  form — see `04-forms-and-fees.md`). Keep copies of everything.
 
 ## Phase 3 — While it's pending (do NOT leave the U.S. without Advance Parole)
 

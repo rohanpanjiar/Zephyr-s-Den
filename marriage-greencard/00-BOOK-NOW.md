@@ -1,83 +1,75 @@
-# 🚀 BOOK NOW — Fastest Path to Your First Appointments
+# 🚀 BOOK NOW — Get Married This Week (you're back in LA!)
 
-Read this first. Two appointments get the whole process moving; here's how to grab the
-earliest of each.
-
----
-
-## ⏰ The timing rule that controls everything
-
-**LA County only opens marriage appointments 3 weeks in advance.** You return **Tue July
-14**, so:
-
-| Target wedding date | Booking window opens (~3 wks prior) | Set a reminder to book at |
-|---|---|---|
-| **Wed July 15** ⭐ | **~Tuesday, June 24** | 8:00 AM, June 24 |
-| Thu July 16 | ~Wednesday, June 25 | 8:00 AM, June 25 |
-| Tue July 14 (only if you land early) | ~Monday, June 23 | 8:00 AM, June 23 |
-
-Westside express-ceremony slots go fast. Book **the morning the window opens.** This is
-the single most important action to move quickly.
+**Today: Thursday, July 23, 2026.** You're back in LA. Goal: married at the earliest
+possible date — realistically **today, tomorrow (Fri July 24), or Monday (July 27)**.
 
 ---
 
-## Appointment #1 — Marriage license + express ceremony (the actual first step)
+## The timing
 
-**Where (closest offices to Marina del Rey, in order):**
+California has **no waiting period**, and LA County books express ceremonies for the
+**next available slot**. Office hours are **Mon–Fri, 8:30 AM–4:30 PM** (closed
+weekends). So the earliest you can be legally married is simply **the first open
+appointment**:
 
-1. **LAX Courthouse branch** ⭐ *closest, ~10 min* — 11701 S La Cienega Blvd, Fl 6,
-   Los Angeles, CA 90045 · Mon–Fri 8:30 AM–4:30 PM
-2. **Beverly Hills branch** *(~20 min, backup)* — 9355 Burton Way, Beverly Hills, CA
-   90210 · Mon–Fri 8:30 AM–4:30 PM
-3. Van Nuys — 14340 Sylvan St, Van Nuys 91401 · Norwalk HQ — 12400 Imperial Hwy, Norwalk
-   90650 (other backups if Westside is full)
-
-**Do this NOW (works 24/7, even on a Sunday):**
-
-1. Go to **marriage.lavote.net** → start the **online marriage license application**.
-   You can complete the application today — it gives you a **confirmation/tracking
-   number**. Save it.
-2. You can't reserve the July slot until the 3-week window opens (see table). So: finish
-   the application now, then **come back on ~June 24 at 8 AM** and click **"Make an
-   Appointment" → "Marriage License and Express Ceremony"** at the **LAX Courthouse**
-   branch for **July 15**. If no slot, immediately try Beverly Hills, then Van Nuys.
-3. Choose **confidential license** (recommended — no witness needed; you qualify since you
-   live together). If the express-ceremony window still asks for a witness, the office
-   provides one for **$20**.
-
-**Cost that day:** $91 license + $25 ceremony (+ $20 optional witness). Bring both photo
-IDs (passports ideal) and a card.
-
-> Faster fallback if online slots are gone: call **800-201-8999** the morning of June 24
-> (offices open Mon–Fri 8:30 AM) and ask for the earliest express-ceremony slot across
-> **all seven branches** the week of July 14. Phone script is in `07-email-drafts.md`.
+- **Today (Thu 7/23)** — possible if you grab a same-day afternoon slot and can get there
+  before 4:30.
+- **Tomorrow (Fri 7/24)** — the realistic earliest full-day option.
+- **Monday (Mon 7/27)** — if Thu/Fri slots are gone (offices closed Sat/Sun).
 
 ---
 
-## Appointment #2 — Immigration attorney consult (can happen THIS WEEK, remotely)
+## Step 1 — RIGHT NOW: complete the online application
 
-You don't have to wait for July 14 to start the green-card side. Book a consult **now** —
-even a video call before you land — so the attorney can have everything ready to file the
-day after your wedding.
+- Go to **marriage.lavote.net** → start the **online marriage license application**.
+- Fill it out completely; it generates a **confirmation/tracking number** — save it.
+- Choose **confidential license** (recommended — no witness required; you qualify since you
+  live together).
 
-- Send the outreach email in `07-email-drafts.md` to **2–3 Westside/LA immigration
-  attorneys** today. Ask for the earliest consult (video is fine) and a flat-fee quote.
-- Where to find them fast: **AILA "Find a Lawyer"** (ailalawyer.com), or search
-  "immigration attorney marriage green card Los Angeles" and pick firms with strong
-  reviews for family/AOS cases.
-- Bring to the consult: this folder + the filled `06-form-data-worksheet.md`.
+## Step 2 — Book the earliest ceremony slot (today, Fri, or Mon)
+
+- On marriage.lavote.net → **"Make an Appointment" → "Marriage License and Express
+  Ceremony."**
+- **Take the soonest slot across the closest branches** (in order):
+  1. **LAX Courthouse** ⭐ *closest, ~10 min* — 11701 S La Cienega Blvd, Fl 6, LA 90045
+  2. **Beverly Hills** — 9355 Burton Way, Beverly Hills 90210
+  3. **Van Nuys** — 14340 Sylvan St, Van Nuys 91401
+  4. **Norwalk HQ** — 12400 Imperial Hwy, Norwalk 90650
+- **Fastest route to a slot:** call **800-201-8999 now** (open until 4:30 PM today) and ask
+  for the **earliest express-ceremony slot across all seven branches** — phones often
+  surface same-day/next-day openings the web doesn't. Phone script in `07-email-drafts.md`.
+- To marry **today**, ask specifically for a **same-day** express ceremony at LAX
+  Courthouse or whichever branch has an open afternoon slot.
+
+## Step 3 — Ceremony day: get married
+
+- Bring both **photo IDs** (passports ideal) + a card. Cost: **$91 license + $25
+  ceremony** (confidential license needs no witness; if the window asks for one, they
+  provide it for $20).
+- **You're legally married.** 🎉 Order **certified copies** of the certificate before you
+  leave (you need one for USCIS).
 
 ---
 
-## Your ASAP checklist
+## In parallel — start the green-card side TODAY
 
-- [ ] **Today:** Complete the online marriage license application at marriage.lavote.net;
-      save the confirmation number.
-- [ ] **Today:** Email 2–3 immigration attorneys for a consult (draft ready).
-- [ ] **Set a reminder for ~June 24, 8 AM:** book the LAX Courthouse express ceremony for
-      July 15 (Beverly Hills as backup).
-- [ ] **Late July:** book Rohan's I-693 medical exam with a civil surgeon (draft ready).
+- Email **2–3 immigration attorneys** for the earliest consult (video is fine). Draft in
+  `07-email-drafts.md`. You chose the attorney path — engage them now so they can file
+  right after the wedding.
+- Find them fast via **AILA "Find a Lawyer"** (ailalawyer.com) or a search for "marriage
+  green card immigration attorney Los Angeles."
 
-Want me to set the **June 24 booking reminder** and drop the **attorney + medical emails
-as Gmail drafts** so you just hit send? I can do that now — just confirm the Google
-account. (Nothing gets sent without you.)
+---
+
+## Your ASAP checklist (today, Thu July 23)
+
+- [ ] **Now:** Complete the online marriage license application; save the confirmation #.
+- [ ] **Now:** Call **800-201-8999** for the earliest express-ceremony slot (today, Fri, or
+      Mon); or book online.
+- [ ] **Now:** Email 2–3 immigration attorneys for a consult.
+- [ ] **Ceremony day (7/23–7/27):** Marry; order certified marriage certificate copies.
+- [ ] **This week/next:** Book Rohan's I-693 medical exam (draft ready), then assemble +
+      file the green-card package with your attorney (`04`/`05`).
+
+Tell me the confirmed ceremony date once you book it and I'll lock the rest of the timeline
+to it.

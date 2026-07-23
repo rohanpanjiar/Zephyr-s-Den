@@ -1,11 +1,11 @@
 # Rohan + Meg — Marriage & Green Card Concierge Package
 
-**Prepared:** June 14, 2026 · **Target wedding:** week of July 14, 2026 (return from Europe)
+**Updated:** July 23, 2026 · **Target wedding:** ASAP this week — you're back in LA
 **Home:** Marina del Rey, CA (Los Angeles County)
 
 This folder is your "hit go" kit. It contains everything you need to (1) get legally
-married in LA County within a day or two of landing, and (2) file a complete
-marriage-based green card package right after. Read this page first.
+married in LA County this week, and (2) file a complete marriage-based green card package
+right after. **Start with `00-BOOK-NOW.md`**, then read this page.
 
 ---
 
@@ -43,9 +43,9 @@ immediately**, and **file a flawless package the moment you're eligible.**
   possible green card category with no visa-number wait and full eligibility for concurrent
   concurrent I-130 + I-485 filing. You're in the fast lane.
 
-**The plan:** finish Europe → land July 14 → marry July 15/16 → file the concurrent
-package immediately → Rohan can continue working on H-1B and traveling on H-1B while the
-case processes.
+**The plan:** you're back in LA (July 23) → marry ASAP this week (today/Fri/Mon) → file
+the concurrent package right after → Rohan continues working on H-1B and can travel on
+H-1B while the case processes.
 
 ---
 

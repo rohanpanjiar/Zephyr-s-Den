@@ -15,8 +15,8 @@
 
 These are the only things I need to fully finish every form. Takes ~10 minutes to fill in.
 
-1. **Wedding date:** Wednesday July 15 or Thursday July 16? (To lock the appointment slot
-   at Beverly Hills RR/CC.)
+1. **Wedding date:** earliest open slot — today (Thu 7/23), Fri 7/24, or Mon 7/27? (Book
+   via `00-BOOK-NOW.md`, then tell me the confirmed date to lock the timeline.)
 
 2. **Marriage license type:** confidential (recommended — no witness needed, fine since you
    live together) or public (needs 1 witness)?
