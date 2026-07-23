@@ -3,16 +3,30 @@
 This is the part that can happen within a day of landing. California has **no waiting
 period**: a marriage license is valid immediately and good for **90 days**.
 
-## Where: nearest office to Marina del Rey
+## ⏰ Booking window: 3 weeks out
 
-**LA County Registrar-Recorder/County Clerk — Beverly Hills Branch**
-9355 Burton Way, Beverly Hills, CA 90210
-Phone: 800-201-8999 · Hours: Mon–Fri, 8:30 a.m.–4:30 p.m. (closed weekends/holidays)
+**LA County opens appointments only up to 3 weeks in advance.** For a **July 15** wedding,
+the slot becomes bookable around **June 24**. Book that morning — Westside express slots
+fill fast. See `00-BOOK-NOW.md` for the exact play.
 
-This is the closest of the seven RR/CC branch offices to Marina del Rey (~9 miles). All
-seven branches issue licenses and perform express ceremonies; Beverly Hills or the
-Norwalk HQ are the usual picks for the Westside. Express ceremonies are **by appointment
-only** and run ~45 minutes.
+## Where: nearest offices to Marina del Rey (all 7 branches do licenses + express ceremonies)
+
+General phone for all branches: **800-201-8999**. Hours Mon–Fri, ~8:30 a.m.–4:30 p.m.
+(Norwalk HQ / Van Nuys to 5:00 p.m.); closed weekends/holidays.
+
+| # | Branch | Address | Distance from Marina del Rey |
+|---|---|---|---|
+| 1 ⭐ | **LAX Courthouse** | 11701 S La Cienega Blvd, Fl 6, Los Angeles 90045 | closest, ~10 min |
+| 2 | **Beverly Hills** | 9355 Burton Way, Beverly Hills 90210 | ~20 min (backup) |
+| 3 | Van Nuys | 14340 Sylvan St, Van Nuys 91401 | ~30 min |
+| 4 | Norwalk (HQ) | 12400 Imperial Hwy, Norwalk 90650 | ~35 min |
+| 5 | East LA | 4716 E. Cesar Chavez Ave, Los Angeles 90022 | ~35 min |
+| 6 | Florence/Firestone | 7807 Compton Ave, Los Angeles 90001 | ~30 min |
+| 7 | Lancaster | 1028 W Ave J2, Lancaster 93534 | far (~1.5 hr) |
+
+**Strategy:** target **LAX Courthouse** for July 15; if its slots are taken, immediately
+try **Beverly Hills**, then **Van Nuys**. Express ceremonies are **by appointment only**
+and run ~45 minutes.
 
 ## Cost
 
@@ -44,20 +58,17 @@ Payment: cash, check, credit/debit card, or money order.
 
 ## How to book (do this now, before you land)
 
-LA County uses an online system to reserve marriage-license appointments and ceremony
-slots. Steps:
+LA County uses an online system (**marriage.lavote.net**) to reserve appointments. Steps:
 
-1. Go to the LA County RR/CC marriage site: **lavote.gov** → County Clerk → Marriage
-   Licenses & Ceremonies (online portal: marriage.lavote.net).
-2. Start the **online marriage license application** (fill it out in advance to save time
-   at the counter — it generates a confirmation/tracking number).
-3. Reserve an **appointment** at the Beverly Hills branch for **Wed July 15 or
-   Thu July 16, 2026**.
-4. In the same flow, book an **Express Marriage Ceremony** appointment for the same day.
-5. Save both confirmations.
+1. **Now:** Start the **online marriage license application** at marriage.lavote.net. Fill
+   it out in advance — it generates a **confirmation/tracking number**. Save it.
+2. **~June 24 (3 weeks before July 15):** Return and click **"Make an Appointment" →
+   "Marriage License and Express Ceremony"** at the **LAX Courthouse** branch for
+   **Wed July 15** (Beverly Hills as backup).
+3. Complete the required waiver; save the appointment confirmation.
 
-> If online ceremony slots for that week are full, call **800-201-8999** to check
-> availability across all seven branches — the draft phone script is in
+> You can't reserve July 15 until ~June 24 (the 3-week window). If online slots are full
+> that morning, call **800-201-8999** to check all seven branches — phone script in
 > `07-email-drafts.md`.
 
 ## On the day

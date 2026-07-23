@@ -9,10 +9,11 @@ These can all be done remotely before you land:
 - [ ] **Answer the 6 questions** in `08-open-questions.md`.
 - [ ] **Choose green-card path** (attorney / service / DIY) and, if attorney, send the
       outreach email in `07-email-drafts.md` and book a consult for the week of July 14.
-- [ ] **Book the marriage license appointment** at the LA County Beverly Hills branch for
-      **Wed July 15 or Thu July 16** (online appointment system — see
-      `02-marriage-license-LA.md`).
-- [ ] **Book the express civil ceremony** for the same day/slot (same office).
+- [ ] **Now:** complete the online marriage license application at **marriage.lavote.net**
+      (save the confirmation number).
+- [ ] **~June 24 (booking window opens 3 wks before July 15):** reserve the **Marriage
+      License + Express Ceremony** at the **LAX Courthouse** branch for **Wed July 15**
+      (Beverly Hills backup). See `00-BOOK-NOW.md`. Slots fill fast — book at 8 AM.
 - [ ] **Decide license type:** confidential (no witness needed, you must live together —
       you do) vs. public (needs 1 witness; office can supply one for $20).
 - [ ] **Order passport-style photos** for both of you (2 each) — any CVS/Walgreens, or

@@ -71,6 +71,7 @@ attorneys are in `07-email-drafts.md`.
 
 | File | What it's for |
 |---|---|
+| `00-BOOK-NOW.md` | ⭐ **Start here** — fastest path to your first appointments |
 | `01-timeline.md` | Day-by-day plan anchored to your July 14 return |
 | `02-marriage-license-LA.md` | Exact steps to get married in LA County (the fast part) |
 | `03-greencard-path.md` | How the marriage green card works + expedite realities |
